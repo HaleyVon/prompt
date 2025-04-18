@@ -1,0 +1,30 @@
+# 환경 변수
+.env
+
+# 가상 환경
+venv/
+env/
+ENV/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 분포 / 패키징
+dist/
+build/
+*.egg-info/
+
+# IDE 설정 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
