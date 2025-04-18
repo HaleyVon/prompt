@@ -148,4 +148,6 @@ Your response should be strategic, analytical, and practical...
 
 ## 라이선스
 
-[라이선스 정보] 
+Copyright © 2025 디엘토. All Rights Reserved.
+
+이 프로젝트와 관련 파일은 저작권자의 명시적인 서면 허가 없이 어떠한 형태로든 사용, 복제, 수정, 배포가 금지됩니다. 
